@@ -1,0 +1,119 @@
+Script started on 2022-03-27 13:31:42-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="126" LINES="20"]
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ exit[Kscript . code
+Script iniciado; el fichero es .
+script: no se puede abrir .: Es un directorio
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ script code .
+Script iniciado; el fichero es code
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ code .
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ cd s[K[K[K[Kcode . script.js 
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ ,co[K[K[Kcode.
+
+Orden «code.» no encontrada. Quizá quiso decir:
+
+  la orden «code» del paquete snap «code (f80445ac)»
+
+Consulte «snap info <nombre del snap>» para ver más versiones.
+
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ code .
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ cd ..
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio[00m$ code .
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio[00m$ cd p[KP
+PaginaWeb/     ProyetoPrubea/ 
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio[00m$ cd PaginaWeb/
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ cd
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd E
+EjemplosNum_6/ Escritorio/    
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd E
+EjemplosNum_6/ Escritorio/    
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd Escritorio/
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio[00m$ cd ch[K[K[K[K[Kcd
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd ch13-networking/src/
+httprequest/ http_v1/     localfiles/  requests/    rest/        restservice/ ws/          wsecho/      
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd ch13-networking/src/ws
+ws/     wsecho/ 
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd ch13-networking/src/ws
+ws/     wsecho/ 
+]0;arturo@arturo-Aspire-E5-511: ~[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~[00m$ cd ch13-networking/src/ws
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws[00m$ ls -l
+total 8
+drwxrwxr-x 2 arturo arturo 4096 mar 27 13:29 [0m[01;34mws_client[0m
+drwxrwxr-x 3 arturo arturo 4096 mar 21 23:24 [01;34mws_server[0m
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws[00m$ cd ws_client/
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_client[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_client[00m$ qtcreatr[Kor .
+QVariant::load: unknown user type with name Utils::PerspectiveState.
+"Previously SDK provided CMakeTool \"/home/arturo/Qt/Tools/CMake/bin/cmake\" (qt.tools.cmake) dropped."
+Warning: No factory found for device 'WebAssembly Device' of type 'WebAssemblyDeviceType'.
+Warning: Unable to restore Qt version 'Qt4ProjectManager.QtVersion.WebAssembly' stored in /home/arturo/.config/QtProject/qtcreator/qtversion.xml.
+Warning: No kit 'qt.qt5.5152.gcc_64_kit' found. Continuing.
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_client[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_client[00m$ cd ..
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws[00m$ qtcreator ws_[K[K[K.
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws[00m$ cd ws_server/
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ qtcreator 
+QVariant::load: unknown user type with name Utils::PerspectiveState.
+"Previously SDK provided CMakeTool \"/home/arturo/Qt/Tools/CMake/bin/cmake\" (qt.tools.cmake) dropped."
+Warning: No factory found for device 'WebAssembly Device' of type 'WebAssemblyDeviceType'.
+Warning: Unable to restore Qt version 'Qt4ProjectManager.QtVersion.WebAssembly' stored in /home/arturo/.config/QtProject/qtcreator/qtversion.xml.
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ qtcrq[Keator .
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1114, resource id: 41957320, major code: 40 (TranslateCoords), minor code: 0
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ node server.js 
+listening on port 3000
+client connected
+^C
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ node server.js 
+listening on port 3000
+client connected
+Message: Hola como estasn todos 
+Message: exit()
+Message: exit
+Message: exit
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+Message: while(true){"hola Mundo"}
+^C
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ ^C
+]0;arturo@arturo-Aspire-E5-511: ~/ch13-networking/src/ws/ws_server[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/ch13-networking/src/ws/ws_server[00m$ exit
+exit
+Script terminado; el fichero es code
+]0;arturo@arturo-Aspire-E5-511: ~/Escritorio/PaginaWeb[01;32marturo@arturo-Aspire-E5-511[00m:[01;34m~/Escritorio/PaginaWeb[00m$ exit
+exit
+
+Script done on 2022-03-27 13:41:21-06:00 [COMMAND_EXIT_CODE="0"]
