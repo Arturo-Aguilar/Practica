@@ -116,7 +116,7 @@ function request() {
             document.getElementById("nombre").innerHTML="No se encontro el pockemon";
         }
     }
-    xhr.open(`GET","https://pokeapi.co/api/v2/pokemon/${pokemon}`);
+    xhr.open("GET",`https://pokeapi.co/api/v2/pokemon/${pokemon}`);
     xhr.send();
 }
 var t="hola";
