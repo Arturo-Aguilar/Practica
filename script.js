@@ -113,10 +113,10 @@ function request() {
             document.getElementById("imagen").src=json.sprites.other.home.front_default;    
             console.log(json);
         }else{
-            document.getElementById("nombre").innerHTML="No encontrado";
+            document.getElementById("nombre").innerHTML="No se encontro el pockemon";
         }
     }
-    xhr.open("GET","https://pokeapi.co/api/v2/pokemon/"+pokemon);
+    xhr.open("GET","https://pokeapi.co/api/v2/pokemon/{$pokemon}");
     xhr.send();
 }
 var t="hola";
